@@ -11,7 +11,7 @@ public class ConsoleApplicationTests {
 
 	@Test
 	public void contextLoads() {
-	   System.out.println("Test Message 01");
+	   System.out.println("Test Message 04");
 	}
 
 	@Test
