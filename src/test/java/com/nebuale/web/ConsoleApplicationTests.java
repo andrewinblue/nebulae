@@ -16,6 +16,7 @@ public class ConsoleApplicationTests {
 
 	@Test
 	public void testMethod02() {
+	   System.out.println("Test message 02");
 	}
 
 }
